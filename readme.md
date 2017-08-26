@@ -1,3 +1,7 @@
 Short Lnk
 
-This is a link shortening application based off of the Meteor and React frameworks.
+This is a link shortener build on Meteor and React.
+
+Authors
+
+Michael James
