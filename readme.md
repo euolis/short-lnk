@@ -9,3 +9,7 @@ Michael James
 ## How To
 
 This is a sample how to guide.
+
+- Step 1
+- Step 2
+- Step 3
